@@ -919,7 +919,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: url("../img/counts-bg.jpg") center center no-repeat;
+  background: url('https://as2.ftcdn.net/v2/jpg/02/18/72/63/1000_F_218726328_JPGdhYAJmplB8gNbLEZUoyWD9oawokWy.jpg') center center no-repeat;
   background-size: cover;
   padding: 30px 0 30px 0;
   position: relative;
@@ -928,7 +928,7 @@ section {
 .counts::before {
   content: "";
   position: absolute;
-  background: linear-gradient(250deg, #009dff87, #a2d8ff73);
+  background: #013d638f;
   left: 0;
   right: 0;
   top: 0;

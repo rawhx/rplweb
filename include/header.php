@@ -28,18 +28,19 @@
 
   <style>
     .buku-tamu {
-      padding: 10px 15px;
+      margin-right: 20px;
+      padding: 5px 15px;
       border-radius: 20px;
-      background-color: white;
-      border: 2px solid darkblue;
+      border: 2px solid #4B56D2;
+      transition: 0.5s ease-in;
     }
     .buku-tamu a {
-      color: gray;
+      color: rgba(0, 0, 0, 0.5);
       font-weight: bold;
     }
 
     .buku-tamu:hover {
-      background-color: darkblue;
+      background-color: #4B56D2;
     }
 
     .buku-tamu:hover a{
