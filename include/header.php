@@ -2,7 +2,7 @@
     <div class="container-fluid">
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center justify-content-lg-between">
-          <h1 class="logo me-auto me-lg-0"><a href="/"><img src="assets/img/logo.png" alt="logo" srcset="" id="logo"></a></h1>
+          <h1 class="logo me-auto me-lg-0"><a href=""><img src="assets/img/logo.png" alt="logo" srcset="" id="logo"></a></h1>
 
           <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
