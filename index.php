@@ -39,7 +39,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center">
       <div class="opa">
-          <div id="carouselExampleInterval" class="carousel-fade" data-bs-ride="carousel">
+          <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner">
               <div class="carousel-item active" data-bs-interval="2500">
                   <div class="img" style="background-image: url(https://i0.wp.com/smkn4malang.sch.id/wp-content/uploads/2021/09/IMG20210503112245-scaled-e1632381195678.jpg?fit=2560%2C1075&ssl=1)"></div>
