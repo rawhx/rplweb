@@ -358,7 +358,7 @@
               <div class="portfolio-info">
                 <h4>Sepatu Galih</h4>
                 <p>UI/UX</p>
-                <a href="assets/img/portfolio/galih.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/galih.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Sepatu Galih"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -378,7 +378,7 @@
               <div class="portfolio-info">
                 <h4>D-Rent</h4>
                 <p>UI/UX</p>
-                <a href="assets/img/portfolio/d-rent.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/d-rent.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="D-Rent"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -388,17 +388,7 @@
               <div class="portfolio-info">
                 <h4>E-HOTEL</h4>
                 <p>App</p>
-                <a href="assets/img/portfolio/ehotel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-ui">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/ehotel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="E-HOTEL"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -418,7 +408,7 @@
               <div class="portfolio-info">
                 <h4>Grafika Bird</h4>
                 <p>Games</p>
-                <a href="assets/img/portfolio/bird.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/bird.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Grafika Bird"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -433,15 +423,6 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-Web">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-Web">
               <img src="assets/img/portfolio/kiduldalem.png" class="img-fluid" alt="">
