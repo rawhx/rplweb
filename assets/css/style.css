@@ -923,6 +923,7 @@ section {
   background-size: cover;
   padding: 30px 0 30px 0;
   position: relative;
+  margin: 10px;
 }
 
 .counts::before {
