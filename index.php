@@ -383,12 +383,12 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-Games">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Mobile">
+              <img src="assets/img/portfolio/ehotel.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
+                <h4>E-HOTEL</h4>
                 <p>App</p>
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/ehotel.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
