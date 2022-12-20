@@ -1,0 +1,185 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.close {
+  display: none;
+}
+
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  position: fixed;
+  z-index: 100;
+  width: 180px;
+  height: 100%;
+  overflow-y: auto;
+  background: #332FD0;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#sidebar header {
+  border-bottom: 1px solid;
+  padding: 20px;
+}
+
+#sidebar .nav {
+  margin: 25px 0;
+}
+
+#sidebar .nav li{
+  margin: 10px 0;
+}
+
+#sidebar .nav a {
+  color: gainsboro;
+  text-decoration: none;
+}
+
+#sidebar .nav a:hover {
+  border-left: 5px solid #0002A1;
+  color: white;
+}
+
+#sidebar .nav .active {
+  padding: 10px;
+  margin-top: 0;
+  border-left: 0.8px solid;
+  color: white;
+}
+
+#sidebar .nav a i{
+  color: gainsboro;
+  margin: 0 10px;
+}
+
+
+/* navbar */
+.view {
+  padding-left: 180px;
+}
+
+.view .nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.1 ) 0px 7px 29px 0px;
+}
+
+.view .nav .profile {
+  display: flex;
+  text-align: center;
+  padding: 5px 0;
+  align-items: center;
+}
+
+.view .nav a {
+  color: black;
+  text-decoration: none;
+}
+
+.view .nav a h6 {
+  cursor: pointer;
+  text-transform: capitalize;
+  font-size: 10pt;
+  text-decoration: none;
+  margin: 0;
+  text-align: center;
+}
+
+.view .nav .profile .img {
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  margin: 0 10px;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 100%;
+}
+
+/* content */
+.dashboard {
+  margin: 30px;
+}
+
+.dashboard .content .banner{
+  color: white;
+  background-size: cover;
+  background-position-y: center;
+  background-image: url(https://i0.wp.com/smkn4malang.sch.id/wp-content/uploads/2021/09/IMG20210503112245-scaled-e1632381195678.jpg?fit=2560%2C1075&ssl=1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: aqua;
+  padding: 25px;
+  margin: 50px 0;
+  height: 250px;
+  border-radius: 10px;
+}
+
+.dashboard .content .banner p {
+  font-size: 10pt;
+}
+
+.menu {
+  display: none;
+}
+
+table {
+  margin-top: 50px;
+}
+
+table .judul td{
+  font-weight: bold;
+  background-color: cornflowerblue
+}
+
+/* mobile */
+@media screen and (max-width: 768px) {
+  .close {
+      display: block;
+      cursor: pointer;
+  }
+
+  #sidebar {
+      /* display: none; */
+      visibility: hidden;
+      position: absolute;
+  }
+
+  .view {
+      padding: 0;
+  }
+
+  .view .nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: white;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+  .menu {
+      cursor: pointer;
+      display: contents;
+  }
+
+  .menu svg {
+      margin: 0 10px;
+  }
+
+  .view .nav .profile {
+      text-align: center;
+      position: relative;
+      padding: 5px 0;
+      align-items: center;
+  }
+}
